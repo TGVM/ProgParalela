@@ -1,0 +1,2 @@
+gcc -fopenmp -­o code "arquivo".c
+./code
